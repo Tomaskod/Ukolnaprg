@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Black+Ops+One&family=Bokor&family=Dancing+Script:wght@400..700&family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Lavishly+Yours&family=Mea+Culpa&family=Metal+Mania&family=Modak&family=Monsieur+La+Doulaise&family=Mountains+of+Christmas:wght@400;700&family=New+Rocker&family=Oi&display=swap');
+body{
+    background-color: darkgreen;
+    margin: auto;
+    text-align: center ;
+    list-style-position: inside;
+    justify-content: center;
+    align-items: center;
+    font-family:Mea Culpa ;
+    
+    
+}
+main{
+    background-color: white;
+    outline: dotted 80px darkgreen;
+    border-radius: 5%;
+    max-width: fit-content;
+    margin: 500px ;
+    padding: 50px 60px;
+    outline: dotted 45px;
+    outline-offset:  -10px;
+    outline-color: darkgreen;
+   
+    
+}
+img{
+    
+    width: 125px;
+    height: 125px;
+}
+ol{
+    text-align: left;
+    display:  inline-block;
+}
+
+
