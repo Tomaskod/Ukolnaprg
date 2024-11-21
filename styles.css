@@ -15,14 +15,12 @@ main{
     outline: dotted 90px darkgreen;
     border-radius: 5%;
     margin: 500px ;
+    margin-left: 500px ;
     padding: 50px 60px;
     outline-offset:  -20px;
     outline-color: darkgreen;
     font-size:  50px;
     width: 1100px;
-    
-   
-    
 }
 img{
     
@@ -32,8 +30,6 @@ img{
 ol{
     text-align: left;
     display:  inline-block;
-    padding: 1px 0px 0px 10px;
-    
 }
 
 
