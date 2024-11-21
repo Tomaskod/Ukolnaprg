@@ -16,6 +16,7 @@ main{
     border-radius: 5%;
     max-width: fit-content;
     margin: 500px ;
+    margin-left: 700px ;
     padding: 50px 60px;
     outline: dotted 45px;
     outline-offset:  -10px;
